@@ -1,0 +1,18 @@
+
+1. Mark Lutz - Learning Python-O'Reilly (2009)
+https://drive.google.com/file/d/1XwHtBwS7XPXfMtTpnABdHnZuVpHtanQ8/view
+
+2. Joel Grus - Data Science from Scratch_ First Principles with Python-O'Reilly Media (2015)
+https://drive.google.com/file/d/1653xTye8ff-yBTadkFJ0uSZutc2Ay_mx/view
+
+3. Sebastian Raschka, Vahid Mirjalili - Python Machine Learning_ Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2-Packt Publishing - ebooks Account (2019)
+https://drive.google.com/file/d/1RCNQdLbgQ8iFVhEnotm8XcsjILQuNS4_/view
+
+4. Steven F.Lott - mastering object-oriented python-Packt Publishing Ltd. (2019)
+https://drive.google.com/file/d/1U3Z2nSLr8fko62o1Z6aVri12z7zXOWzk/view
+
+5. python_tutorial
+https://www.tutorialspoint.com/python3/python_tutorial.pdf
+
+6. Tutorial_EDIT
+https://bugs.python.org/file47781/Tutorial_EDIT.pdf
